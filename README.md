@@ -12,16 +12,16 @@ This project analyzes a sales transaction dataset containing **500,000 records**
 ## **Project Structure**
 ```
 /SQL_Scripts
-    - Create Table.sql          # SQL script to define database schema
-    - Data Cleaning.sql         # SQL script for handling missing values & outliers
-    - Data Exploration.sql      # SQL queries for exploratory data analysis
-    - Insights.sql              # SQL queries to extract key insights
+    - Create Table.sql                                             # SQL script to define database schema
+    - Data Cleaning.sql                                            # SQL script for handling missing values & outliers
+    - Data Exploration.sql                                         # SQL queries for exploratory data analysis
+    - Insights.sql                                                 # SQL queries to extract key insights
 /Documentation
-    - Assignment_Insights.docx  # Detailed report of findings
+    - Sales Data Analysis and Key Insights Report                  # Detailed report of findings
 /Data
-    - assessment_dataset.csv    # Sales dataset used for analysis
+    - assessment_dataset.csv                                       # Sales dataset used for analysis
       link: https://incubytein-my.sharepoint.com/:x:/g/personal/akash_incubyte_co/EWbzbiLBCxNHogEQHUF0i7MBkK-86jKetzVDT4t0d-wZog?e=P0xulf
-README.md                      # Project summary and instructions
+README.md                                                          # Project summary and instructions
 ```
 
 ## **Steps Performed**
