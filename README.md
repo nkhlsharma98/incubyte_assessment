@@ -1,5 +1,5 @@
 # incubyte_assessment
-This repository contains data analysis of sales_data assessment shared by Incubyte for Data Craftsperson role
+This repository contains data analysis of sales_data assessment shared by Incubyte for Data Craftsperson role along with necessary files. 
 # **Sales Data Analysis Project**
 
 ## **Overview**
